@@ -1,1 +1,1 @@
-For legal and formal notices related to or arising from this DAO.
+Template for every business, legal and other contract, notice, filing or other record related to or arising from this DAO.
