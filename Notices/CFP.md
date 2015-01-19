@@ -1,6 +1,6 @@
 Hi Everyone,
 
-We've created a new nonprofit association in order to build social,
+We've created a new nonprofit association in order to build social, business,
 legal and technical infrastructure for Distributed Autonomous Organizations.
 
 Dazzaji is the manager, and you can become a member by joining the organization 
